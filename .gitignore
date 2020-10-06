@@ -1,0 +1,4 @@
+*.iml
+.idea
+/service-b/target/
+/service-a/target/
